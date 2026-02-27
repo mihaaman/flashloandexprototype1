@@ -23,8 +23,18 @@ The bot is already working: it scans the market in real-time, finds profitable a
 - Gas optimization and slippage protection
 - Logging of all detected opportunities
 
+
 ### 📸 Screenshots
 
+**Main Dashboard** :
+
+![Main Dashboard](images/dashboard-2.png)
+
+![Prototype Dashboard](images/dashboard-prototype.png)
+
+**Logs View** :
+
+![Logs View](images/logs-1.png)
 
 ### 🛠 Technologies
 - Backend Scanner: Python / Node.js
