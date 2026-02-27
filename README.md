@@ -24,17 +24,18 @@ The bot is already working: it scans the market in real-time, finds profitable a
 - Logging of all detected opportunities
 
 
-### 📸 Screenshots
+#### 📸 Screenshots
 
 **Main Dashboard** :
 
-![Main Dashboard](images/dashboard-2.png)
+![Main Dashboard](loanarb.dashboard2.png)
 
-![Prototype Dashboard](images/dashboard-prototype.png)
+![Prototype Dashboard](loanarb.dashboardprotty..png)
 
 **Logs View** :
 
-![Logs View](images/logs-1.png)
+![Logs View](loanarb.logs1.png)
+
 
 ### 🛠 Technologies
 - Backend Scanner: Python / Node.js
